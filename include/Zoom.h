@@ -1,7 +1,7 @@
 #ifndef ZOOM_H
 #define ZOOM_H
 
-namespace caveOfProgramming {
+namespace fractalProgram {
 
 class Zoom
 {

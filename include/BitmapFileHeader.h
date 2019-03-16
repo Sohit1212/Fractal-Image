@@ -8,7 +8,7 @@ using namespace std;
 #pragma pack(2)
 //members of a struct are public by default
 
-namespace caveOfProgramming {
+namespace fractalProgram {
 
 struct BitmapFileHeader {
   char header[2]{'B','M'};

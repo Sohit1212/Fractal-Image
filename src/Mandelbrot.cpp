@@ -3,7 +3,7 @@
 
 using namespace std;
 
-namespace caveOfProgramming {
+namespace fractalProgram {
 
 Mandelbrot::Mandelbrot()
 {

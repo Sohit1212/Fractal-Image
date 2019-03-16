@@ -10,13 +10,13 @@
 1544314011 /home/sohit/Desktop/codeblocks/Fractals/BitmapInfoHeader.h
 	<stdio.h>
 
-1543877666 /home/sohit/Desktop/codeblocks/Fractals/include/BitmapFileHeader.h
+1552736864 /home/sohit/Desktop/codeblocks/Fractals/include/BitmapFileHeader.h
 	<cstdint>
 
-1546782790 /home/sohit/Desktop/codeblocks/Fractals/include/BitmapInfoHeader.h
+1552736859 /home/sohit/Desktop/codeblocks/Fractals/include/BitmapInfoHeader.h
 	<stdio.h>
 
-1544317737 source:/home/sohit/Desktop/codeblocks/Fractals/src/Bitmap.cpp
+1552736798 source:/home/sohit/Desktop/codeblocks/Fractals/src/Bitmap.cpp
 	<fstream>
 	"Bitmap.h"
 	"BitmapFileHeader.h"
@@ -35,34 +35,34 @@
 1546782790 /home/sohit/Desktop/codeblocks/Fractals/src/BitmapInfoHeader.h
 	<stdio.h>
 
-1547824300 source:/home/sohit/Desktop/codeblocks/Fractals/src/main.cpp
+1552736937 source:/home/sohit/Desktop/codeblocks/Fractals/src/main.cpp
 	"FractalCreator.h"
 
-1546785757 /home/sohit/Desktop/codeblocks/Fractals/include/Mandelbrot.h
+1552736798 /home/sohit/Desktop/codeblocks/Fractals/include/Mandelbrot.h
 
-1546785476 source:/home/sohit/Desktop/codeblocks/Fractals/src/Mandelbrot.cpp
+1552736798 source:/home/sohit/Desktop/codeblocks/Fractals/src/Mandelbrot.cpp
 	<complex>
 	"Mandelbrot.h"
 
-1546814106 source:/home/sohit/Desktop/codeblocks/Fractals/src/ZoomList.cpp
+1552736798 source:/home/sohit/Desktop/codeblocks/Fractals/src/ZoomList.cpp
 	"ZoomList.h"
 	<iostream>
 
-1546813219 /home/sohit/Desktop/codeblocks/Fractals/include/ZoomList.h
+1552736798 /home/sohit/Desktop/codeblocks/Fractals/include/ZoomList.h
 	<vector>
 	<utility>
 	"Zoom.h"
 
-1546808137 /home/sohit/Desktop/codeblocks/Fractals/include/Zoom.h
+1552736798 /home/sohit/Desktop/codeblocks/Fractals/include/Zoom.h
 
-1546808141 source:/home/sohit/Desktop/codeblocks/Fractals/src/Zoom.cpp
+1552736798 source:/home/sohit/Desktop/codeblocks/Fractals/src/Zoom.cpp
 	"Zoom.h"
 
-1546885805 source:/home/sohit/Desktop/codeblocks/Fractals/src/FractalCreator.cpp
+1552736798 source:/home/sohit/Desktop/codeblocks/Fractals/src/FractalCreator.cpp
 	"FractalCreator.h"
 	"Bitmap.h"
 
-1546885805 /home/sohit/Desktop/codeblocks/Fractals/include/FractalCreator.h
+1552736798 /home/sohit/Desktop/codeblocks/Fractals/include/FractalCreator.h
 	<string>
 	"Zoom.h"
 	"Mandelbrot.h"
@@ -72,7 +72,7 @@
 	"ZoomList.h"
 	"Bitmap.h"
 
-1546884453 /home/sohit/Desktop/codeblocks/Fractals/include/Bitmap.h
+1552736836 /home/sohit/Desktop/codeblocks/Fractals/include/Bitmap.h
 	<string>
 	<cstdint>
 	<memory>

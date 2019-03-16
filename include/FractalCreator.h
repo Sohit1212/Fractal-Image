@@ -11,7 +11,7 @@
 
 using namespace std;
 
-namespace caveOfProgramming {
+namespace fractalProgram {
 
 class FractalCreator
 {

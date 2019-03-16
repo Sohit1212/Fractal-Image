@@ -7,7 +7,7 @@ using namespace std;
 
 #pragma pack(2)
 
-namespace caveOfProgramming {
+namespace fractalProgram {
 
 struct BitmapInfoHeader {
 

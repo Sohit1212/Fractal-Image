@@ -4,9 +4,9 @@
 #include "BitmapInfoHeader.h"
 
 using namespace std;
-using namespace caveOfProgramming;
+using namespace fractalProgram;
 
-namespace caveOfProgramming {
+namespace fractalProgram {
 
 Bitmap::Bitmap(int width, int height): m_width(width),m_height(height),m_pPixels(new uint8_t[width*height*3]{})
 {

@@ -1,7 +1,7 @@
 #include "FractalCreator.h"
 #include"Bitmap.h"
 
-namespace caveOfProgramming {
+namespace fractalProgram {
 
 FractalCreator::FractalCreator(int width, int height): m_width(width),m_height(height),
 m_histogram(new int[Mandelbrot::MAX_ITERATIONS]{0}),m_fractal(new int[m_width*m_height]{0}),

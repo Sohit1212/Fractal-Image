@@ -47,7 +47,6 @@
 		<Unit filename="src/Zoom.cpp" />
 		<Unit filename="src/ZoomList.cpp" />
 		<Unit filename="src/main.cpp" />
-		<Unit filename="text.bmp" />
 		<Extensions>
 			<envvars />
 			<code_completion />
