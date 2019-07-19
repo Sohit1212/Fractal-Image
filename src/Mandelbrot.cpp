@@ -17,13 +17,13 @@ Mandelbrot::~Mandelbrot()
 
 int Mandelbrot::getIterations(double x,double y){
 
-    complex<double> z = 0;
-    complex<double> c(x,y);
+    complex<double> z(x,y);
+    complex<double> c(-0.79,0.15);
 
     int iterations = 0;
 
     while(iterations < MAX_ITERATIONS) {
-        z = z*z +c;
+        z = z*z+ c;
         if(abs(z) > 2) break;
 
         iterations++;

@@ -13,11 +13,11 @@ void ZoomList::add(const Zoom& zoom) {
     zooms.push_back(zoom);
 
     m_xCenter += (zoom.x - m_width/2)*m_scale;
-    m_yCenter += (zoom.y - m_height/2)*m_scale;
+    m_yCenter += -(zoom.y - m_height/2)*m_scale;
 
     m_scale *= zoom.scale;
 
-    cout<<m_xCenter<<","<<m_yCenter<<","<<m_scale<<endl;
+    //cout<<m_xCenter<<","<<m_yCenter<<","<<m_scale<<endl;
 
 }
 
